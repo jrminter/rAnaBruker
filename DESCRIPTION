@@ -1,6 +1,6 @@
 Package: rAnaBruker
 Title: Helper functions to automate processing optical interferometry results from the Bruker
-Version: 0.0.0.9000
+Version: 0.0.0.901
 Authors@R: person("Minter", "John", email= "jrminter@gmail.com", role = c("aut", "cre"))
 Maintainer: John Minter <jrminter@gmail.com>
 Description: This package reads the Excel workbook produced by the Bruker when samples are identified with a specified naming format and auto-processes the data.

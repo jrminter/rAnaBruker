@@ -28,7 +28,7 @@ loadExcelData<- function(workbookPath, iDigits=5){
     sId[i] <- b[1]
     sLo[i] <- b[2]
     sFe[i] <- b[3]
-    sJp[i] <- paste0(x,".jpg")
+    sJp[i] <- paste0(x," 3D.jpg")
   }
 
   dfParsed <- data.frame(sample.id=sId,
