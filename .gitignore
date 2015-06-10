@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.DS_Store
+# don't track .Rd files build by pandoc
+man/*.Rd
+inst/doc
+vignettes/*.html
+vignettes/*.R
