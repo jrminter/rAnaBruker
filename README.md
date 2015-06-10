@@ -1,0 +1,3 @@
+# rAnaBruker
+
+An experimental R package designed to automate data reduction of optical interferometric measurements from the Bruker.  A **very early** work in progress. Not at all ready for prime time...
